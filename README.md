@@ -10,7 +10,8 @@
 [애런](https://github.com/hashswim)의 프로젝트 매니저 앱입니다.
 
 - 기술 스택
-|Programming language|UI Frameworks|Internal frameworks|Package management|Tools|Database|Architecture
+
+|Programming language|UI Frameworks|Internal frameworks|Package management|Tools|Database|Architecture|
 |------|---|---|---|---|---|---|
 |Swift|UIKit|프로젝트 요구사항 확인 후 추가|SPM, CocoaPods|SwiftLint|CoreData, Firebase|MVVM|
 
